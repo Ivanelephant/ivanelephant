@@ -1,8 +1,9 @@
 {
-    "name": "快打旋風",
+    "name": "快打旋風 #2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
